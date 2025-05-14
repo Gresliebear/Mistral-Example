@@ -1,9 +1,26 @@
 # Mistral-Example
 Example of using Mistral
 
-#### 1. you will mistral API key for app.py to work
+#### You will mistral API key for app.py to work
+
+create .env file
+
+put this in the .env file
+
+
+`MISTRAL_API_KEY="XXXXXXXXXXXXXXX"`
 
 #### create a virtual environment
+
+`python -m venv venv`
+
+enter your virtual environment
+
+`source venv/bin/activate` (Linux/MacOS)
+
+or
+
+`venv\Scripts\activate` (Windows)
 
 #### Pip install the requirements
 
@@ -16,3 +33,5 @@ Example of using Mistral
 #### Run the test script to past data flask api
 
 `python test_script.py`
+
+This should be able to give you good prototype test concept out
