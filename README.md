@@ -1,6 +1,8 @@
 # Mistral-Example
 
-Example of using Mistral API and locally
+Example of using Mistral API and locally running the model
+
+Create a account on Mistral https://auth.mistral.ai/ui/login 
 
 #### You will mistral API key for app.py to work
 
